@@ -1,4 +1,4 @@
-# SoFi Technologies (NASDAQ: SOFI) - Equity Research & Valuation
+# SoFi Technologies (NASDAQ: SOFI) - FARMSA Stock Pitch Competition
 
 **FARMSA Fall 2025 Stock Pitch Competition**  
 *Dhruv Joshi & Jaineel Patel | Honours Mathematics (Co-op), University of Waterloo*
