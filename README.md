@@ -9,11 +9,7 @@
 
 A comprehensive equity research analysis of SoFi Technologies, featuring quantitative peer comparison, Monte Carlo valuation modeling, and fundamental analysis. This project combines Python-based financial modeling with investment thesis development.
 
----
-
-Key Findings
-
-Can be found on the presented slide deck. Presented in front of 50+ individuals.
+Key Findings Can be found on the presented slide deck. Presented in front of 50+ individuals.
 
 ---
 
@@ -46,8 +42,6 @@ Three-scenario framework (Bull/Base/Bear) with WACC and terminal growth sensitiv
 - **pandas / numpy** — Data manipulation & calculations
 - **matplotlib / seaborn** — Visualization
 - **Google Colab** — Development environment
-
----
 
 ## Quick Start
 
@@ -84,6 +78,6 @@ jupyter notebook sofi_analysis.ipynb
 - **Dhruv Joshi** — Honours Mathematics (Co-op), University of Waterloo
 - **Jaineel Patel** — Honours Mathematics (Co-op), University of Waterloo
 
----
+--
 
 *Disclaimer: This analysis is for educational purposes only and does not constitute professional investment advice.*
